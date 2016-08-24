@@ -1,3 +1,13 @@
+# Facebook Ad Eradicator Chrome Extension
+
+2016/08/24
+
+This extension is a tiny modification to fbAdHighlighter, to remove FB ads rather than to hide them (https://freedom-to-tinker.com/blog/randomwalker/can-facebook-really-make-ads-unblockable/). This is 100% for my own selfish personal satisfaction, to be able to use FB without ads and without the constant back and forth with Adblock Plus.
+
+Everything else is copied from https://github.com/storey/fbAdHighlighter.
+
+=============================================================================
+
 # Facebook Ad Highlighter Chrome Extension
 
 This extension highlights Facebook advertisements in a user’s news feed.
