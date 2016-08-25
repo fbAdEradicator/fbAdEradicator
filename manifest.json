@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "Facebook Ad Eradicator",
-  "description": "Removes newsfeed ads (aka Sponsored Posts) in Facebook's news feed.",
+  "description": "Obscures newsfeed ads (aka Sponsored Posts) in Facebook's news feed.",
   "version": "0.0.1",
   "browser_action": {
     "default_icon": "icon.png",
